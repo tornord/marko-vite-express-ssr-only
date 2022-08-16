@@ -1,1 +1,1 @@
-# Example of using @marko/vite for ssr only.
+# Example of using @marko/vite for ssr only
